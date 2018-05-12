@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '43411'
     url: http://www.gutenberg.org/2009/agents/43411
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45678#Tales-of-the-Covenanters
 gutenberg_issued: '2014-05-17'
 gutenberg_type: Text
 identifiers:
